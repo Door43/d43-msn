@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msn:home|Door43 (msn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msn|d43-msn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msn/archive/master.zip|d43-msn.zip]]
+
+**Recent Changes**
+{{changes>ns = msn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msn|Ethnologue data]]
+
